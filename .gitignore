@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+.pytest_cache/
+*.py[cod]
+.venv/
+
+# SQLite
+*.db
+*.db-shm
+*.db-wal
+
+# Node
+node_modules/
+dist/
+*.tsbuildinfo
+.vite/
+npm-debug.log*
